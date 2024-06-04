@@ -9,7 +9,7 @@ import sb.settings as settings
 import sb.errors as errors
 import sb.colors as colors
 
-URL = "https://smart-contracts-vulns-data-model.github.io/smart-vulnerabilities/main?vulnerability="
+URL = "https://ds-square.github.io/smart-vulnerabilities/main?vulnerability="
 MODELPATH = "./smart-vulnerabilities/src/data/out.json"
 SMARTRESPATH = "results"
 TOOLS = ["confuzzius", "conkas", "ethainter", "ethor", "honeybadger", "madmax", "maian", "manticore", "mythril", "osiris", "oyente", "pakala", "securify", "sfuzz", "slither", "solhint", "teether", "vandal", "smartcheck"]
