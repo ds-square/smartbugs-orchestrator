@@ -45,10 +45,10 @@ Orchestrate SmartBugs tools prioritizing them and enrich output.
    ```
    For adding another user, replace `$USER` by the respective user-id. The group membership becomes active with the next log-in.
 
-2. Clone [SmartBugs's Orchestrator repository](https://gitlab.com/sapienza-phd/projects/smart-contracts/smartbugs-orchestrator) and its submodules:
+2. Clone [SmartBugs's Orchestrator repository](https://github.com/ds-square/smartbugs-orchestrator) and its submodules:
 
    ```bash
-   git clone --recurse-submodules git@github.com:smart-contracts-vulns-data-model/smartbugs-orchestrator.git
+   git clone --recurse-submodules git@github.com:ds-square/smartbugs-orchestrator.git
    ```
 
 3. Install Python dependencies in a virtual environment and activate it:
