@@ -1,6 +1,6 @@
 # Smartbugs Orchestrator
 
-This repository contains the orchestrator presented in the paper "SoK: A Unified Data Model for Smart Contract Vulnerability Taxonomies" - Claudia Ruggiero, Pietro Mazzini, Emilio Coppa, Simone Lenti, Silvia Bonomi at ARES 2024.
+This repository contains the orchestrator presented in the paper "SoK: A Unified Data Model for Smart Contract Vulnerability Taxonomies" - Claudia Ruggiero, Pietro Mazzini, Emilio Coppa, Simone Lenti, Silvia Bonomi at ARES 2024: Proceedings of the 18th International Conference on Availability, Reliability and Security
 
 The visualization platform can be found here: https://ds-square.github.io/smart-vulnerabilities/
 
