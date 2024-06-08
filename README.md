@@ -217,3 +217,16 @@ ethor found something!
 ethor found the impacting vuln Reentrancy
 Finished running tools spotting impacting vulns
 ```
+
+## Citation
+
+```bibtex
+@inproceedings{Ruggiero2024,
+  author    = {Claudia Ruggiero and Pietro Mazzini and Emilio Coppa and Simone Lenti and Silvia Bonomi},
+  title     = {{SoK: A Unified Data Model for Smart Contract Vulnerability Taxonomies}},
+  booktitle = {Proceedings of the 18th International Conference on Availability, Reliability and Security},
+  series    = {ARES},
+  year      = {2024},
+  doi       = {10.1145/3664476.3664507},
+}
+```
